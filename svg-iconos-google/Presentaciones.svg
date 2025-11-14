@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(191, 57, 24, .1);
+      }
+
+      .cls-2 {
+        mask: url(#mask-5);
+      }
+
+      .cls-3 {
+        fill: rgba(255, 255, 255, .1);
+      }
+
+      .cls-4 {
+        mask: url(#mask-1);
+      }
+
+      .cls-5 {
+        mask: url(#mask-7);
+      }
+
+      .cls-6 {
+        fill: #f4b405;
+      }
+
+      .cls-7 {
+        mask: url(#mask);
+      }
+
+      .cls-8 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-9 {
+        fill: url(#Degradado_sin_nombre_4);
+      }
+
+      .cls-10 {
+        fill: #fbdb80;
+      }
+
+      .cls-11 {
+        mask: url(#mask-6-2);
+      }
+
+      .cls-12 {
+        fill: rgba(191, 57, 24, .2);
+      }
+
+      .cls-13 {
+        mask: url(#mask-2-2);
+      }
+
+      .cls-14 {
+        fill: url(#Degradado_sin_nombre_3);
+      }
+
+      .cls-15 {
+        fill: rgba(255, 255, 255, .2);
+      }
+
+      .cls-16 {
+        mask: url(#mask-4-2);
+      }
+
+      .cls-17 {
+        fill: #f1f1f1;
+      }
+
+      .cls-18 {
+        mask: url(#mask-3);
+      }
+    </style>
+    <mask id="mask" x="91.4" y="13.93" width="417.07" height="573.47" maskUnits="userSpaceOnUse">
+      <g id="mask-2">
+        <path id="path-1" class="cls-8" d="M352.07,13.93h-221.57c-21.51,0-39.1,17.6-39.1,39.1v495.27c0,21.51,17.6,39.1,39.1,39.1h338.87c21.51,0,39.1-17.6,39.1-39.1V170.33L352.07,13.93Z"/>
+      </g>
+    </mask>
+    <mask id="mask-1" x="91.4" y="13.93" width="417.07" height="573.47" maskUnits="userSpaceOnUse">
+      <g id="mask-4">
+        <path id="path-3" class="cls-8" d="M352.07,13.93h-221.57c-21.51,0-39.1,17.6-39.1,39.1v495.27c0,21.51,17.6,39.1,39.1,39.1h338.87c21.51,0,39.1-17.6,39.1-39.1V170.33L352.07,13.93Z"/>
+      </g>
+    </mask>
+    <mask id="mask-2-2" data-name="mask-2" x="91.4" y="13.93" width="417.07" height="573.47" maskUnits="userSpaceOnUse">
+      <g id="mask-6">
+        <path id="path-5" class="cls-8" d="M352.07,13.93h-221.57c-21.51,0-39.1,17.6-39.1,39.1v495.27c0,21.51,17.6,39.1,39.1,39.1h338.87c21.51,0,39.1-17.6,39.1-39.1V170.33L352.07,13.93Z"/>
+      </g>
+    </mask>
+    <linearGradient id="Degradado_sin_nombre_4" data-name="Degradado sin nombre 4" x1="72.52" y1="544.68" x2="72.52" y2="536.63" gradientTransform="translate(-757.17 9130.48) scale(16.45 -16.45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf3918" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#bf3918" stop-opacity=".02"/>
+    </linearGradient>
+    <mask id="mask-3" x="91.4" y="13.93" width="417.07" height="573.47" maskUnits="userSpaceOnUse">
+      <g id="mask-9">
+        <path id="path-8" class="cls-8" d="M352.07,13.93h-221.57c-21.51,0-39.1,17.6-39.1,39.1v495.27c0,21.51,17.6,39.1,39.1,39.1h338.87c21.51,0,39.1-17.6,39.1-39.1V170.33L352.07,13.93Z"/>
+      </g>
+    </mask>
+    <mask id="mask-4-2" data-name="mask-4" x="91.4" y="13.93" width="417.07" height="573.47" maskUnits="userSpaceOnUse">
+      <g id="mask-11">
+        <path id="path-10" class="cls-8" d="M352.07,13.93h-221.57c-21.51,0-39.1,17.6-39.1,39.1v495.27c0,21.51,17.6,39.1,39.1,39.1h338.87c21.51,0,39.1-17.6,39.1-39.1V170.33L352.07,13.93Z"/>
+      </g>
+    </mask>
+    <mask id="mask-5" x="91.4" y="13.93" width="417.07" height="573.47" maskUnits="userSpaceOnUse">
+      <g id="mask-13">
+        <path id="path-12" class="cls-8" d="M352.07,13.93h-221.57c-21.51,0-39.1,17.6-39.1,39.1v495.27c0,21.51,17.6,39.1,39.1,39.1h338.87c21.51,0,39.1-17.6,39.1-39.1V170.33L352.07,13.93Z"/>
+      </g>
+    </mask>
+    <mask id="mask-6-2" data-name="mask-6" x="91.4" y="13.93" width="417.07" height="573.47" maskUnits="userSpaceOnUse">
+      <g id="mask-15">
+        <path id="path-14" class="cls-8" d="M352.07,13.93h-221.57c-21.51,0-39.1,17.6-39.1,39.1v495.27c0,21.51,17.6,39.1,39.1,39.1h338.87c21.51,0,39.1-17.6,39.1-39.1V170.33L352.07,13.93Z"/>
+      </g>
+    </mask>
+    <mask id="mask-7" x="91.4" y="13.93" width="417.07" height="573.47" maskUnits="userSpaceOnUse">
+      <g id="mask-17">
+        <path id="path-16" class="cls-8" d="M352.07,13.93h-221.57c-21.51,0-39.1,17.6-39.1,39.1v495.27c0,21.51,17.6,39.1,39.1,39.1h338.87c21.51,0,39.1-17.6,39.1-39.1V170.33L352.07,13.93Z"/>
+      </g>
+    </mask>
+    <radialGradient id="Degradado_sin_nombre_3" data-name="Degradado sin nombre 3" cx="52.13" cy="551.46" fx="52.13" fy="551.46" r="14.21" gradientTransform="translate(-2363 26132.16) scale(47.33 -47.33)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="Page-1">
+    <g id="Consumer-Apps-Slides-Large-VD-R8">
+      <g id="Hero">
+        <g id="Personal">
+          <g id="Slides-icon">
+            <g id="Group">
+              <g id="Clipped">
+                <g class="cls-7">
+                  <path id="Path" class="cls-6" d="M352.07,13.93h-221.57c-21.51,0-39.1,17.6-39.1,39.1v495.27c0,21.51,17.6,39.1,39.1,39.1h338.87c21.51,0,39.1-17.6,39.1-39.1V170.33l-91.23-65.17L352.07,13.93Z"/>
+                </g>
+              </g>
+              <g id="Clipped-2" data-name="Clipped">
+                <g class="cls-4">
+                  <path id="Shape" class="cls-17" d="M384.66,274.6h-169.43c-10.75,0-19.55,8.8-19.55,19.55v169.43c0,10.75,8.8,19.55,19.55,19.55h169.43c10.75,0,19.55-8.8,19.55-19.55v-169.43c0-10.75-8.8-19.55-19.55-19.55ZM378.14,424.48h-156.4v-91.23h156.4v91.23Z"/>
+                </g>
+              </g>
+              <g id="Clipped-3" data-name="Clipped">
+                <g class="cls-13">
+                  <polygon id="Path-2" data-name="Path" class="cls-9" points="363.51 158.9 508.47 303.83 508.47 170.33 363.51 158.9"/>
+                </g>
+              </g>
+              <g id="Clipped-4" data-name="Clipped">
+                <g class="cls-18">
+                  <g id="Group-2" data-name="Group">
+                    <path id="Path-3" data-name="Path" class="cls-10" d="M352.07,13.93v117.3c0,21.6,17.5,39.1,39.1,39.1h117.3L352.07,13.93Z"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Clipped-5" data-name="Clipped">
+                <g class="cls-16">
+                  <polygon id="Path-4" data-name="Path" class="cls-3" points="352.07 13.93 352.07 17.19 505.21 170.33 508.47 170.33 352.07 13.93"/>
+                </g>
+              </g>
+              <g id="Clipped-6" data-name="Clipped">
+                <g class="cls-2">
+                  <path id="Path-5" data-name="Path" class="cls-15" d="M130.5,13.93c-21.51,0-39.1,17.6-39.1,39.1v3.26c0-21.51,17.6-39.1,39.1-39.1h221.57v-3.26h-221.57Z"/>
+                </g>
+              </g>
+              <g id="Clipped-7" data-name="Clipped">
+                <g class="cls-11">
+                  <path id="Path-6" data-name="Path" class="cls-12" d="M469.37,584.14H130.5c-21.51,0-39.1-17.6-39.1-39.1v3.26c0,21.51,17.6,39.1,39.1,39.1h338.87c21.51,0,39.1-17.6,39.1-39.1v-3.26c0,21.51-17.6,39.1-39.1,39.1Z"/>
+                </g>
+              </g>
+              <g id="Clipped-8" data-name="Clipped">
+                <g class="cls-5">
+                  <path id="Path-7" data-name="Path" class="cls-1" d="M391.17,170.33c-21.6,0-39.1-17.5-39.1-39.1v3.26c0,21.6,17.5,39.1,39.1,39.1h117.3v-3.26h-117.3Z"/>
+                </g>
+              </g>
+            </g>
+            <path id="Path-8" data-name="Path" class="cls-14" d="M352.07,13.93h-221.57c-21.51,0-39.1,17.6-39.1,39.1v495.27c0,21.51,17.6,39.1,39.1,39.1h338.87c21.51,0,39.1-17.6,39.1-39.1V170.33L352.07,13.93Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
