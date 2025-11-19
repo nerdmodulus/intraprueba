@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-3 {
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-4 {
+        stroke: url(#linear-gradient-2);
+      }
+
+      .cls-5 {
+        stroke: url(#linear-gradient-3);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="-.02" y="-1100.34" width="1920.03" height="1080.68"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="890.38" y1="88.44" x2="1712.88" y2="-734.06" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#009343"/>
+      <stop offset="1" stop-color="#32fa6e"/>
+    </linearGradient>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" x="118.81" width="1682.38" height="1080"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="299.2" y1="1473.04" x2="1980.36" y2="-208.12" xlink:href="#linear-gradient"/>
+    <clipPath id="clippath-2">
+      <rect class="cls-2" x="-1948.68" y="-1107.83" width="1937.35" height="1095.66"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="-965.35" y1="202.51" x2="-381.68" y2="-381.17" xlink:href="#linear-gradient"/>
+  </defs>
+  <g class="cls-8">
+    <path class="cls-3" d="M2149.33-147.35c-1,1-1300.97-357.94-1580.84-436.7-29.5-8.3-46.52-39.11-37.85-68.51,59.87-203.12,247.91-763.79,304.45-952.45-20.67,4.06-80.76,8.86-100.86,14.36-29.93,100.02-212.37,627.48-341.28,1023.54-29.46,90.52,8.97,189.26,91.87,236.05,430.69,243.11,1693.03,957.73,1695.31,960.01l-30.79-776.29Z"/>
+  </g>
+  <g>
+    <rect class="cls-1" x="118.81" width="1682.38" height="1080"/>
+    <g class="cls-6">
+      <path class="cls-4" d="M1725.57,504.94V-458.05l-74.6-4.49V469.58c0,51.05-32.96,96.26-81.56,111.88L92.87,1086.75l505.54,681.39L1655.8,677.18c44.75-46.17,69.77-107.94,69.77-172.24Z"/>
+    </g>
+  </g>
+  <g class="cls-7">
+    <path class="cls-5" d="M-888.24-767.04l-1112.92-251.37-5.95,98.89,1057.13,251.36c53.02,12.61,95.6,52,112.27,103.89L-416.14,747.4H743.21L-732.2-682.62c-43.27-41.94-97.26-71.15-156.04-84.43Z"/>
+  </g>
+</svg>
